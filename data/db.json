@@ -1,0 +1,179 @@
+{
+  "movies": [
+    {
+      "title": "ff",
+      "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO. As the team navigates layered dreams within dreams, their own emotional baggage threatens the mission's success.",
+      "year": 2011,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption. Quentin Tarantino's nonlinear narrative revolutionized independent filmmaking with its razor-sharp dialogue and unforgettable characters.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "The Matrix",
+      "year": 1999,
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. This groundbreaking sci-fi film combines philosophical questions about reality with revolutionary visual effects and martial arts action.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Interstellar",
+      "year": 2014,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. As earth becomes increasingly uninhabitable, former NASA pilot Cooper must leave his family behind on a desperate mission across galaxies to find a new home for mankind.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Parasite",
+      "year": 2019,
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan. This Oscar-winning thriller masterfully blends dark comedy, social commentary, and suspense as it examines the growing wealth gap in modern society.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron. Peter Jackson's epic adaptation of J.R.R. Tolkien's beloved fantasy series brings to life the magical world of elves, dwarves, and hobbits.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories. This innovative romantic drama explores the nature of love and memory through a science fiction premise while featuring career-defining performances from its leads.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer who skins his victims. This psychological thriller features the chilling Dr. Hannibal Lecter in one of cinema's most memorable villainous performances.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Whiplash",
+      "year": 2014,
+      "description": "A promising young drummer enrolls at a prestigious music conservatory where he's mentored by an instructor who will stop at nothing to realize a student's potential. This intense drama examines the cost of artistic excellence and the fine line between motivation and abuse.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Jurassic Park",
+      "year": 1993,
+      "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok. Steven Spielberg's groundbreaking adventure film combines cutting-edge visual effects with thrilling storytelling to bring prehistoric creatures back to life.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "La La Land",
+      "year": 2016,
+      "description": "While pursuing their dreams in Los Angeles, a jazz pianist and an aspiring actress fall in love while attempting to reconcile their aspirations for the future. This modern musical celebrates the joy and pain of pursuing artistic passions in a city known for both creating and crushing dreams.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge. Wes Anderson's visually stunning comedy follows the adventures of Gustave H and his protégé Zero.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years. This visually stunning sequel expands the philosophical themes of the original while creating its own haunting atmosphere.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Schindler's List",
+      "year": 1993,
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis. Spielberg's powerful Holocaust drama portrays one man's transformation from opportunist to humanitarian.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Spirited Away",
+      "year": 2001,
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts. This enchanting animated masterpiece from Studio Ghibli follows Chihiro's quest to restore her parents and return to the human world.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "The Social Network",
+      "year": 2010,
+      "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business. David Fincher's film examines the birth of social media.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "The Departed",
+      "year": 2006,
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston. Martin Scorsese's crime thriller features an all-star cast in a tense game of cat and mouse where loyalties are constantly tested.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Moonlight",
+      "year": 2016,
+      "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood. This Oscar-winning drama presents an intimate portrait of vulnerability and strength across three defining chapters of life.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_.jpg"
+    },
+    {
+      "id": "22",
+      "title": "The Lion King",
+      "year": 1994,
+      "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery. This animated classic combines stunning visuals with powerful themes of family, responsibility, and the circle of life.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Goodfellas",
+      "year": 1990,
+      "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate. Scorsese's gangster epic provides an unflinching look at organized crime from the inside.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Get Out",
+      "year": 2017,
+      "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point. Jordan Peele's directorial debut blends horror with sharp social commentary on race relations in America.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg"
+    },
+    {
+      "id": "25",
+      "title": "The Truman Show",
+      "year": 1998,
+      "description": "An insurance salesman discovers his entire life is actually a reality TV show. As Truman gradually discovers the truth about his artificial world, this prescient drama explores themes of privacy, authenticity, and the ethics of entertainment in an increasingly media-saturated society.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+    },
+    {
+      "id": "26",
+      "title": "The Avengers",
+      "year": 2012,
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity. This blockbuster successfully brought together multiple superhero franchises into an unprecedented crossover event.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Titanic",
+      "year": 1997,
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. James Cameron's epic romance set against the backdrop of historical tragedy became one of the highest-grossing films of all time and a cultural phenomenon.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+    },
+    {
+      "title": "Testing 123 5",
+      "description": "1234",
+      "year": 1234555,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjI2NGQxMGMtYzQ5Mi00NTBjLWJhYzktMjE2ZDkxOTU3YWZjXkEyXkFqcGc@._V1_QL75_UX149_.jpg",
+      "id": "28"
+    }
+  ]
+}
