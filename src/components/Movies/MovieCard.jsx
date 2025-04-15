@@ -51,7 +51,7 @@ const MovieCard = ({ movie }) => {
             </CardContent>
             <CardActions>
                 <Button size="small" onClick={handleClickOpen}>Edit</Button>
-                <Button size="small" onClick={() => handleDeleteMovie(movie.id)}>Delete</Button>
+                <Button size="small" onClick={() => handleDeleteMovie(movie.id)}>Delete me</Button>
             </CardActions>
             <EditModal handleClickOpen={handleClickOpen} handleClose={handleClose} selectedMovie={selectedMovie} open={open} />
         </Card>
