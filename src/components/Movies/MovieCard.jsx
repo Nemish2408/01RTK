@@ -7,7 +7,6 @@ import {
   CardMedia,
   Typography,
 } from "@mui/material";
-import EditModal from "../Modal/EditModal";
 import { useDeleteMovieMutation } from "../../state/movies/movieApiSlice";
 import defaultImg from "../../assets/imagenotfound.jpg";
 import FormModal from "../Modal/FormModal";
