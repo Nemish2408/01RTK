@@ -21,7 +21,6 @@ const MovieCard = ({ movie }) => {
   const handleCloseEditModal = () => {
     setIsEditModalOpen(false);
   };
-  const [selectedMovie, setSelectedMovie] = useState(movie);
 
   const [deleteMovie] = useDeleteMovieMutation();
 
@@ -37,8 +36,6 @@ const MovieCard = ({ movie }) => {
       console.log(error);
     }
   };
-
-  console.log(selectedMovie);
 
   return (
     <Card sx={{ height: "700px", width: "350px" }}>
@@ -81,31 +78,4 @@ const MovieCard = ({ movie }) => {
   );
 };
 
-<<<<<<< HEAD
 export default MovieCard;
-=======
-    return (
-        <Card sx={{ height: "700px", width: "350px" }}>
-            <CardMedia>
-                <img src={movie.thumbnail || defaultImg } alt={`${movie.title} poster`} style={{ width: "fit-content", height: "500px", display: 'flex', justifyContent: 'center', alignItems: 'center' }} />
-
-            </CardMedia>
-            <CardContent>
-                <Typography gutterBottom variant="h5" component="div">
-                    {movie.title}
-                </Typography>
-                <Typography gutterBottom variant="h5" component="div">
-                    ({movie.year})
-                </Typography>
-            </CardContent>
-            <CardActions>
-                <Button size="small" onClick={handleClickOpen}>Edit</Button>
-                <Button size="small" onClick={() => handleDeleteMovie(movie.id)}>Delete me</Button>
-            </CardActions>
-            <EditModal handleClickOpen={handleClickOpen} handleClose={handleClose} selectedMovie={selectedMovie} open={open} />
-        </Card>
-    );
-}
-
-export default MovieCard
->>>>>>> 83e27f3 (solve bug in img in MovieCard.jsx)
